@@ -1,1 +1,1 @@
-# Wallpaper-Sync-Program
+# Wallpaper Sync Program (WSP)
